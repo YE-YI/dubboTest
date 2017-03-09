@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="dubbo-web:war exploded2">
+    <output-path>$PROJECT_DIR$/out/artifacts/dubbo_web_war_exploded2</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="dubbo-web/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="dubbo-web" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
